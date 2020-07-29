@@ -48,20 +48,20 @@
           "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw&t=11s"
         },
         {
-          "titulo": "",
-          "url": ""
+          "titulo": "Curso de HTML5 - 00 - Site Completo - by Gustavo Guanabara",
+          "url": "https://www.youtube.com/watch?v=epDCjksKMok&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o"
         },
         {
-          "titulo": "",
-          "url": ""
+          "titulo": "CSS Tutorial - Zero to Hero (Complete Course)",
+          "url": "https://www.youtube.com/watch?v=1Rs2ND1ryYc"
         },
         {
-          "titulo": "",
-          "url": ""
+          "titulo": "O que é JavaScript? | #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=NaVSbnnV75Q&t=1s"
         },
         {
-          "titulo": "",
-          "url": ""
+          "titulo": "Preciso ter bagagem Javascript para iniciar com o React?",
+          "url": "https://www.youtube.com/watch?v=Y5QPsQ6IqKc"
         }
       ]
     },
@@ -104,8 +104,8 @@
       },
       "videos": [
         {
-          "titulo": "",
-          "url": ""
+          "titulo": "Programação Mobile - #DevMediaResponde",
+          "url": "https://www.youtube.com/watch?v=6YnSIyoFaAE"
         },
         {
           "titulo": "Como faz um menu mobile com HTML, CSS e JavaScript #01",
@@ -120,8 +120,8 @@
           "url": "https://www.youtube.com/watch?v=r_6Ku38sA-c"
         },
         {
-          "titulo": "",
-          "url": ""
+          "titulo": "Iniciando com React Native em 2019 | Diego Fernandes",
+          "url": "https://www.youtube.com/watch?v=XcU9GEUZTQA"
         }
       ]
     },
