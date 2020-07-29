@@ -17,6 +17,9 @@ function Footer() {
         {' '}
         ❤
       </p>
+      <p>
+        &copy; 2020, Devs do Futuro. Todos os direitos reservados.
+      </p>
     </FooterBase>
   );
 }
