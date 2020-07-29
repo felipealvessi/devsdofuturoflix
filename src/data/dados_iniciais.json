@@ -2,36 +2,36 @@
   "categorias": [
     {
       "titulo": "Termos Usados",
-      "link": "https://www.youtube.com/watch?v=EEeLl-M5YmI",
+      "link": "",
       "cor": "#6BD1FF",
       "link_extra": {
         "text": "Para quem não entende os termos utilizados na Área de Desenvolvimento",
-        "url": "https://www.youtube.com/watch?v=EEeLl-M5YmI"
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "Front-End, Back-End, Mobile",
-          "url": "https://www.youtube.com/watch?v=EEeLl-M5YmI"
+          "titulo": "Backend e Frontend - O programador explica",
+          "url": "https://www.youtube.com/watch?v=WzZ1CSuFpb0"
         },
         {
-          "titulo": "DICAS DE INGLÊS PARA INICIANTES, INTERMEDIÁRIOS E AVANÇADOS",
-          "url": "https://www.youtube.com/watch?v=Rn_bDRpwdp8"
+          "titulo": "Clean Code // Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=ln6t3uyTveQ&list=PLVc5bWuiFQ8GgKm5m0cZE6E02amJho94o&index=12"
         },
         {
-          "titulo": "8 dicas para aprender inglês mais rápidos",
-          "url": "https://www.youtube.com/watch?v=IJE56Uuu-_o"
+          "titulo": "HTML // Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=4dQtz1PpY9A&list=PLVc5bWuiFQ8GgKm5m0cZE6E02amJho94o&index=44"
         },
         {
-          "titulo": "Aulas de ingles Para Iniciantes",
-          "url": "https://www.youtube.com/watch?v=QsxYPwgH-lI"
+          "titulo": "DOM (Document Object Model) // Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=HOv9CqqAZk0&list=PLVc5bWuiFQ8GgKm5m0cZE6E02amJho94o&index=32"
         },
         {
-          "titulo": "Quais textos são ideais para iniciantes no inglês? | Mairo Vergara",
-          "url": "https://www.youtube.com/watch?v=_HFZVTkf8f0"
+          "titulo": "Design Patterns // Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=J-lHpiu-Twk&list=PLVc5bWuiFQ8GgKm5m0cZE6E02amJho94o&index=29"
         },
         {
-          "titulo": "Aprender inglês | Por onde começar?",
-          "url": "https://www.youtube.com/watch?v=d4T5YgwKzJo"
+          "titulo": "Deploy // Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=gJw7l2JKpuQ&list=PLVc5bWuiFQ8GgKm5m0cZE6E02amJho94o&index=28"
         }
       ]
     },
@@ -39,8 +39,8 @@
       "titulo": "Iniciante",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Para quem está iniciando na Área de Desenvolvimento",
-        "url": "https://www.wizard.com.br/idiomas/ingles-intermediario/"
+        "text": "O que vc precisa saber para ser um programador web",
+        "url": "https://www.youtube.com/watch?v=SbeMrbJ6R9E/"
       },
       "videos": [
         {
