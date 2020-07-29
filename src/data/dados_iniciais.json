@@ -134,24 +134,24 @@
       },
       "videos": [
         {
-          "titulo": "",
-          "url": ""
+          "titulo": "Twitter Responsivo com ReactJS | UI Clone",
+          "url": "https://www.youtube.com/watch?v=K-8z_4xvT3o&t=1669s"
         },
         {
-          "titulo": "",
-          "url": ""
+          "titulo": "Criando APPs responsivos com React e Bulma | React em 8 minutos!",
+          "url": "https://www.youtube.com/watch?v=Yxkti4L6-Wk"
         },
         {
-          "titulo": "",
-          "url": ""
+          "titulo": "Como implementar um LOGIN em React.JS Com React Router e Context API em 20 minutos",
+          "url": "https://www.youtube.com/watch?v=FVxdFxxkdDI"
         },
         {
-          "titulo": "",
-          "url": ""
+          "titulo": "React JS - Criando um App do Zero - Programador Br",
+          "url": "https://www.youtube.com/watch?v=tbLziJchz48"
         },
         {
-          "titulo": "",
-          "url": ""
+          "titulo": "Programei em React JS o Frontend do AirCnC (usando React Hooks como useEffect e useMemo)",
+          "url": "https://www.youtube.com/watch?v=Gmiz-j_K340"
         }
       ]
     },
