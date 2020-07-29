@@ -42,7 +42,7 @@ $ npm start ou yarn start
 
 ```
 
- <h2><img src="https://png.pngtree.com/element_our/sm/20180515/sm_5afb099d307d3.jpg"width="50px" height="50px" align="center"/> Results</h2>
+ <h2><img src="https://i.imgur.com/ml9Ause.png"width="50px" height="50px" align="center"/> Results</h2>
 
  <h3> Devs do Futuro</h3>
 
