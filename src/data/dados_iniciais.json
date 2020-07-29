@@ -10,16 +10,16 @@
       },
       "videos": [
         {
-          "titulo": "Backend e Frontend - O programador explica",
-          "url": "https://www.youtube.com/watch?v=WzZ1CSuFpb0"
+          "titulo": "O que faz um programador?",
+          "url": "https://www.youtube.com/watch?v=DXTPjzFYs4k"
         },
         {
           "titulo": "Clean Code // Dicionário do Programador",
           "url": "https://www.youtube.com/watch?v=ln6t3uyTveQ&list=PLVc5bWuiFQ8GgKm5m0cZE6E02amJho94o&index=12"
         },
         {
-          "titulo": "HTML // Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=4dQtz1PpY9A&list=PLVc5bWuiFQ8GgKm5m0cZE6E02amJho94o&index=44"
+          "titulo": "DDD (Domain-Driven Design) // Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=GE6asEjTFv8&t=2s"
         },
         {
           "titulo": "DOM (Document Object Model) // Dicionário do Programador",
@@ -36,41 +36,41 @@
       ]
     },
     {
-      "titulo": "Iniciante",
+      "titulo": "Front-End",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "O que vc precisa saber para ser um programador web",
-        "url": "https://www.youtube.com/watch?v=SbeMrbJ6R9E/"
+        "text": "Para quem está no nível Iniciante",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "Teste de Inglês Intermediário: Consegue Acertar?",
-          "url": "https://www.youtube.com/watch?v=C1f7tdbb-f4"
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw&t=11s"
         },
         {
-          "titulo": "Como passar do intermediário para o avançado - SEGREDO! - Dica de Inglês 2018",
-          "url": "https://www.youtube.com/watch?v=YmhU17Ejct4"
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=TJ90DZjYdWI&t=2s"
         },
         {
-          "titulo": "Como sair do nível intermediário no inglês? | Mairo Vergara",
-          "url": "https://www.youtube.com/watch?v=MtqSaZrgC-c"
+          "titulo": "O que é um desenvolvedor Fullstack?",
+          "url": "https://www.youtube.com/watch?v=98UWCwWul2I"
         },
         {
-          "titulo": "Saia do Intermediário: Como melhorar seu inglês no trabalho",
-          "url": "https://www.youtube.com/watch?v=WcdMQzZctOo"
+          "titulo": "Aprenda SWIFT e se torne um desenvolvedor IOS com cursos GRATUITOS",
+          "url": "https://www.youtube.com/watch?v=OV47giYphmk"
         },
         {
-          "titulo": "SAINDO DO MALDITO NÍVEL INTERMEDIÁRIO NO INGLÊS",
-          "url": "https://www.youtube.com/watch?v=-lUf3AMWBXY"
+          "titulo": "CURSO DE KOTLIN 2020 - TUTORIAL PARA INICIANTES ANDROID",
+          "url": "https://www.youtube.com/watch?v=r_6Ku38sA-c"
         }
       ]
     },
     {
-      "titulo": "Intermediário",
+      "titulo": "Back-End",
       "cor": "#ff0000",
       "link_extra": {
-        "text": "Para quem está ",
-        "url": "https://certificadocursosonline.com/cursos/curso-de-ingles-avancado-i/"
+        "text": "Para quem está no nível Avançado",
+        "url": ""
       },
       "videos": [
         {
@@ -96,11 +96,11 @@
       ]
     },
     {
-      "titulo": "Avançado",
+      "titulo": "Mobile",
       "cor": "#fee11a",
       "link_extra": {
-        "text": "Aprimore sua leitura em Inglês",
-        "url": "https://www.uptime.com.br/blog/aprendendo-ingles-dicas-para-treinar-o-reading"
+        "text": "Para quem está no nível Intermediário",
+        "url": ""
       },
       "videos": [
         {
@@ -130,7 +130,7 @@
       "cor": "#8f651e",
       "link_extra": {
         "text": "Projetos Desenvolvido para Front-End",
-        "url": "https://www.wizard.com.br/idiomas/como-escrever-em-ingles-dicas-para-melhorar-a-escrita/"
+        "url": ""
       },
       "videos": [
         {
@@ -160,7 +160,7 @@
       "cor": "#6b5be2",
       "link_extra": {
         "text": "Projetos Desenvolvido para Back-End",
-        "url": "https://www.inglesnapontadalingua.com.br/2013/06/dicas-para-melhorar-o-listening-em-ingles.html"
+        "url": ""
       },
       "videos": [
         {
@@ -190,7 +190,7 @@
       "cor": "#478800",
       "link_extra": {
         "text": "Projetos Desenvolvido para Mobile (Android / IOS)",
-        "url": "https://englishlive.ef.com/pt-br/blog/como-melhorar-sua-pronuncia-em-ingles/"
+        "url": ""
       },
       "videos": [
         {
