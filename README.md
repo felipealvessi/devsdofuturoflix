@@ -42,11 +42,11 @@ $ npm start ou yarn start
 
 ```
 
- <h2><img src="https://i.imgur.com/ml9Ause.png"width="50px" height="50px" align="center"/> Results</h2>
+ <h2><img src="https://fossildigital.com.br/wordpress/wp-content/uploads/2017/01/check.png"width="50px" height="50px" align="center"/> Results</h2>
 
  <h3> Devs do Futuro</h3>
 
-<img src ="https://i.imgur.com/yi19lbs.png"/>
+<img src ="https://i.imgur.com/ml9Ause.png"/>
  
  <!-- <h3> Adding new vídeo </h3> -->
 
