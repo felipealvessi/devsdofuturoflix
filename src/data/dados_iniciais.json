@@ -39,7 +39,7 @@
       "titulo": "Front-End",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Para quem está no nível Iniciante",
+        "text": " Desenvolvimento - Front-End",
         "url": ""
       },
       "videos": [
@@ -49,11 +49,67 @@
         },
         {
           "titulo": "",
+          "url": ""
+        },
+        {
+          "titulo": "",
+          "url": ""
+        },
+        {
+          "titulo": "",
+          "url": ""
+        },
+        {
+          "titulo": "",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "titulo": "Back-End",
+      "cor": "#ff0000",
+      "link_extra": {
+        "text": "Desenvolvimento - Back-End",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Seja um Programador Back-End de Sucesso (dicas que gostaríamos ter recebido) // Vlog #98",
           "url": "https://www.youtube.com/watch?v=TJ90DZjYdWI&t=2s"
         },
         {
-          "titulo": "O que é um desenvolvedor Fullstack?",
-          "url": "https://www.youtube.com/watch?v=98UWCwWul2I"
+          "titulo": "",
+          "url": ""
+        },
+        {
+          "titulo": "",
+          "url": ""
+        },
+        {
+          "titulo": "",
+          "url": ""
+        },
+        {
+          "titulo": "",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "titulo": "Mobile",
+      "cor": "#fee11a",
+      "link_extra": {
+        "text": "Desenvolvimento - Mobile",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "",
+          "url": ""
+        },
+        {
+          "titulo": "Como faz um menu mobile com HTML, CSS e JavaScript #01",
+          "url": "https://www.youtube.com/watch?v=2WKH-eRJ2O0"
         },
         {
           "titulo": "Aprenda SWIFT e se torne um desenvolvedor IOS com cursos GRATUITOS",
@@ -62,66 +118,10 @@
         {
           "titulo": "CURSO DE KOTLIN 2020 - TUTORIAL PARA INICIANTES ANDROID",
           "url": "https://www.youtube.com/watch?v=r_6Ku38sA-c"
-        }
-      ]
-    },
-    {
-      "titulo": "Back-End",
-      "cor": "#ff0000",
-      "link_extra": {
-        "text": "Para quem está no nível Avançado",
-        "url": ""
-      },
-      "videos": [
-        {
-          "titulo": "Dica de inglês avançado | Advanced English tip",
-          "url": "https://www.youtube.com/watch?v=vnNloWou1g4"
         },
         {
-          "titulo": "Como aumentar vocabulário em inglês avançado - Dica de inglês grátis nível avançado",
-          "url": "https://www.youtube.com/watch?v=vy-EXoCdiA4"
-        },
-        {
-          "titulo": "Seu Inglês Estagnou no Nível Avançado? | Mairo Vergara",
-          "url": "https://www.youtube.com/watch?v=yJygcOi2w7c"
-        },
-        {
-          "titulo": "CANAIS PARA INGLÊS AVANÇADO | com legenda em inglês",
-          "url": "https://www.youtube.com/watch?v=KeNl5-RYOO4"
-        },
-        {
-          "titulo": "5 dicas que vão melhorar MUITO o seu inglês",
-          "url": "https://www.youtube.com/watch?v=p5QncQhAkNQ"
-        }
-      ]
-    },
-    {
-      "titulo": "Mobile",
-      "cor": "#fee11a",
-      "link_extra": {
-        "text": "Para quem está no nível Intermediário",
-        "url": ""
-      },
-      "videos": [
-        {
-          "titulo": "Saiba como praticar o READING sozinho! 7 DICAS!",
-          "url": "https://www.youtube.com/watch?v=bnuM6wwjswk"
-        },
-        {
-          "titulo": "Dicas para melhorar a leitura em inglês - Estratégias",
-          "url": "https://www.youtube.com/watch?v=wT6S1kebp7I"
-        },
-        {
-          "titulo": "Como melhorar seu reading - Turbine agora seu inglês",
-          "url": "https://www.youtube.com/watch?v=gNR11oWUtG0"
-        },
-        {
-          "titulo": "5 Estratégias Poderosas pra Melhorar o Reading em Inglês",
-          "url": "https://www.youtube.com/watch?v=uSLhKaQF5HY"
-        },
-        {
-          "titulo": "4 dicas para READING nos testes de proficiência (TOEFL, IELTS, etc)",
-          "url": "https://www.youtube.com/watch?v=5BDxWRNsvqc"
+          "titulo": "",
+          "url": ""
         }
       ]
     },
@@ -134,24 +134,24 @@
       },
       "videos": [
         {
-          "titulo": "Como melhorar o writing - Vamos escrever em inglês",
-          "url": "https://www.youtube.com/watch?v=WilmJzuOmjg"
+          "titulo": "",
+          "url": ""
         },
         {
-          "titulo": "Como Melhorar A Escrita Em Inglês",
-          "url": "https://www.youtube.com/watch?v=qn2jU56QdSI"
+          "titulo": "",
+          "url": ""
         },
         {
-          "titulo": "5 formas de melhorar seu writing! - Aula de Inglês #80",
-          "url": "https://www.youtube.com/watch?v=5DcJ_D_7j0g"
+          "titulo": "",
+          "url": ""
         },
         {
-          "titulo": "4 Dicas Para Melhorar seu WRITING | Aula do Inglês Feito Fácil - IFF",
-          "url": "https://www.youtube.com/watch?v=P0x1oPZPcAI"
+          "titulo": "",
+          "url": ""
         },
         {
-          "titulo": "4 TÁTICAS MATADORAS para praticar seu WRITING sozinho!",
-          "url": "https://www.youtube.com/watch?v=fCSEIMw2zIQ"
+          "titulo": "",
+          "url": ""
         }
       ]
     },
@@ -164,24 +164,24 @@
       },
       "videos": [
         {
-          "titulo": "4 dicas para treinar o seu listening no inglês | Mairo Vergara | Parte 10 de 365",
-          "url": "https://www.youtube.com/watch?v=oEwDLHNj9ok"
+          "titulo": "",
+          "url": ""
         },
         {
-          "titulo": "Como Melhorar O Listening RÁPIDO?! - 5 Erros Ao Praticar O Listening",
-          "url": "https://www.youtube.com/watch?v=VH5KEnloWlI"
+          "titulo": "",
+          "url": ""
         },
         {
-          "titulo": "COMO MELHORAR O LISTENING EM INGLÊS?",
-          "url": "https://www.youtube.com/watch?v=jeyK0jAfgfo"
+          "titulo": "",
+          "url": "o"
         },
         {
-          "titulo": "Sites para praticar o listening em inglês - Série Listening - Vídeo #3",
-          "url": "https://www.youtube.com/watch?v=0e8T1j-ONJw"
+          "titulo": "",
+          "url": ""
         },
         {
-          "titulo": "Como Treinar Seu Listening em Inglês",
-          "url": "https://www.youtube.com/watch?v=too1TW3zBlE"
+          "titulo": "",
+          "url": ""
         }
       ]
     },
@@ -194,24 +194,24 @@
       },
       "videos": [
         {
-          "titulo": "DICAS DE PRONÚNCIA EM INGLÊS - 03 - SEMANA DA PRONÚNCIA - AULA MAIS TOP!!!",
-          "url": "https://www.youtube.com/watch?v=otiPUiqOwaw"
+          "titulo": "",
+          "url": ""
         },
         {
-          "titulo": "Dicas de pronúncia em inglês - R, H, E e Y - E-Dublin Class#15",
-          "url": "https://www.youtube.com/watch?v=ntSsOHYa5Ms"
+          "titulo": "",
+          "url": ""
         },
         {
-          "titulo": "COMO MELHORAR SUA PRONÚNCIA NO INGLÊS?",
-          "url": "https://www.youtube.com/watch?v=1D2hZhRXftY"
+          "titulo": "",
+          "url": ""
         },
         {
-          "titulo": "FALE COMO UM NATIVO - SUPER DICA DE INGLÊS - PRONÚNCIA",
-          "url": "https://www.youtube.com/watch?v=3_MIas1deFk"
+          "titulo": "",
+          "url": ""
         },
         {
-          "titulo": "Melhore Sua Pronúncia em Inglês em Apenas 16 Minutos",
-          "url": "https://www.youtube.com/watch?v=k1MWWhwuIp8"
+          "titulo": "",
+          "url": ""
         }
       ]
     }
