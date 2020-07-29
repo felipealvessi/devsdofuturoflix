@@ -11,7 +11,7 @@ function Menu() {
             </a>
 
             <Button className="ButtonLink" href="/">
-                Novo vídeo
+                Adicionar um Vídeo
             </Button>
         </nav>
     )
