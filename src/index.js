@@ -3,9 +3,22 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 
+import { BrowserRouter, Switch, Route } from 'react-router-dom';
+
+function CadastroVideo() {
+  return (
+    <div>
+      Cadastro de Vídeo
+    </div>
+  )
+}
+
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+  <BrowserRouter>
+    <Switch>
+      <Route path="/cadastro/video" component={CadastroVideo} />
+      <Route path="/" component={App} />
+    </Switch>
+  </BrowserRouter>,
   document.getElementById('root')
 );
