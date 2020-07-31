@@ -4,14 +4,8 @@ import './index.css';
 import App from './App';
 
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
+import CadastroVideo from './pages/cadastro/video';
 
-function CadastroVideo() {
-  return (
-    <div>
-      Cadastro de Vídeo
-    </div>
-  )
-}
 
 const Pagina404 = () => (
   <div>
