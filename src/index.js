@@ -13,11 +13,18 @@ function CadastroVideo() {
   )
 }
 
+const Pagina404 = () => (
+  <div>
+    Página 404
+  </div>
+)
+
 ReactDOM.render(
   <BrowserRouter>
     <Switch>
+      <Route path="/" component={App} exact />
       <Route path="/cadastro/video" component={CadastroVideo} />
-      <Route path="/" component={App} />
+      <Route path="/" component={Pagina404} />
     </Switch>
   </BrowserRouter>,
   document.getElementById('root')
