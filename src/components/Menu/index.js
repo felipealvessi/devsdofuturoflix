@@ -10,7 +10,7 @@ function Menu() {
                 <img className="Logo" src={Logo} alt="Devs do Futuro Logo" />
             </a>
 
-            <Button className="ButtonLink" href="/">
+            <Button className="ButtonLink" href="/cadastro/video">
                 Adicionar um Vídeo
             </Button>
         </nav>
